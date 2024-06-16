@@ -16,6 +16,9 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 LyricsBox is a Streamlit application that allows users to extract the lyrics from a YouTube song URL. The app downloads the audio from the provided URL, transcribes it using OpenAI's Whisper model, and displays the lyrics to the user.
 
+## Demo
+A demo of the app can be found here: [Lyricbox Demo](https://shubhendu-ghosh-lyricbox.hf.space)
+
 ## Features
 
 - Extracts lyrics from any YouTube video link.
