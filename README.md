@@ -92,7 +92,7 @@ These can be found in the `requirements.txt` file.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. 
 
 ## License
 
